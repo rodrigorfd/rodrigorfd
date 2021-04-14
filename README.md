@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigorfd
-- 👀 I’m interested in learn to code.
-- 🌱 I’m currently learning the JAVA language.
+- 👀 I’m interested in learning how to code.
+- 🌱 I’m currently learning JAVA.
 - 📫 How to reach me: rodrigorfdutra@gmail.com
 
 <!---
