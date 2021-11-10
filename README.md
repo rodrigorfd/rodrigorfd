@@ -5,7 +5,7 @@
 - **How to reach me:** 
 - rodrigorfdutra@gmail.com
 - [Instagram](https://www.instagram.com/rodrigo.rfd/)
-- [Linkedin](https://www.linkedin.com/in/rodrigo-francisco-a32183211/)
+- [Linkedin](https://www.linkedin.com/in/rodrigo-dutra-a32183211/)
 
 <!---
 rodrigorfd/rodrigorfd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
