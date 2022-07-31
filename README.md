@@ -1,8 +1,9 @@
-## Olá, Eu sou @rodrigorfd
+## Hi, I'm @rodrigorfd
 
-- 🤓 **Sou QA na CWI Software**
-- 💻 **Estou atualmente estudando Flutter e Dart.**
-- **Você me acha aqui:** 
+- 🤓 **I'm QA at CWI Software**
+- 💻 **I'm currently studying test automation with Cypress.**
+- **Knowledge: Test Automation in Flutter - Java/ Selenium/ REST Assured - Playwright - Cypress**
+- **You find me here:** 
 - rodrigorfdutra@gmail.com
 - [Instagram](https://www.instagram.com/rodrigo.rfd/)
 - [Linkedin](https://www.linkedin.com/in/rodrigo-dutra-a32183211/)
