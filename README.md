@@ -5,7 +5,6 @@
 - **Knowledge: Test Automation in Flutter - Java/ Selenium/ REST Assured - Playwright - Cypress**
 - **You find me here:** 
 - rodrigorfdutra@gmail.com
-- [Instagram](https://www.instagram.com/rodrigo.rfd/)
 - [Linkedin](https://www.linkedin.com/in/rodrigo-dutra-a32183211/)
 
 <!---
