@@ -2,7 +2,7 @@
 
 - 🤓 **I'm QA at CWI Software**
 - 💻 **I'm currently studying flutter development and test automation with Robot Framework + Appium.**
-- **Knowledge: Test Automation: Web with Java/ Selenium/ REST Assured - Playwright - Cypress | App with: Robot Framework/ Appium + BrowserStack**
+- **Knowledge: Test Automation: Web with Java/ Selenium/ REST Assured - Playwright - Cypress | App with Robot Framework/ Appium + BrowserStack**
 - **You find me here:** 
 - rodrigorfdutra@gmail.com
 - [Linkedin](https://www.linkedin.com/in/rodrigo-dutra-a32183211/)
