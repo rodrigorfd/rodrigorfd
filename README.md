@@ -1,7 +1,7 @@
 ## Hi, I'm @rodrigorfd
 
 - 🤓 **I'm QA at CWI Software**
-- 💻 **I'm currently studying test automation with Cypress.**
+- 💻 **I'm currently studying flutter development and test automation with Robot Framework + Appium.**
 - **Knowledge: Test Automation in Flutter - Java/ Selenium/ REST Assured - Playwright - Cypress**
 - **You find me here:** 
 - rodrigorfdutra@gmail.com
