@@ -1,8 +1,8 @@
 ## Hi, I'm @rodrigorfd
 
-- 🤓 **I'm QA at CWI Software**
-- 💻 **I'm currently studying flutter development and test automation with Robot Framework + Appium.**
-- **Knowledge: Test Automation: Web with Java/ Selenium/ REST Assured - Playwright - Cypress | App with Robot Framework/ Appium + BrowserStack**
+- 🤓 **I'm QA Analyst at CWI Software**
+- 💻 **I'm currently studying test automation with Robot Framework + Appium.**
+- **Knowledge: Test Automation: Web/API with Java/ Selenium/ REST Assured - Playwright - Cypress | App with Robot Framework/ Appium + BrowserStack**
 - **You find me here:** 
 - rodrigorfdutra@gmail.com
 - [Linkedin](https://www.linkedin.com/in/rodrigo-dutra-a32183211/)
